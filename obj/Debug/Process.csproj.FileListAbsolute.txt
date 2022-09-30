@@ -1,0 +1,3 @@
+E:\Вышка\3 семестр универ\Lab_1\Lab_1\Process\obj\Debug\Process.csproj.AssemblyReference.cache
+E:\Вышка\3 семестр универ\Lab_1\Lab_1\Process\obj\Debug\Process.csproj.SuggestedBindingRedirects.cache
+E:\Вышка\3 семестр универ\Lab_1\Lab_1\Process\obj\Debug\Process.csproj.CoreCompileInputs.cache
